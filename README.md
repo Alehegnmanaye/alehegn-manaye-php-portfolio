@@ -35,7 +35,7 @@ Technologies:
 
 - PHP Native
 - MySQL
-- HTML
+- HTML፧
 - CSS
 - JavaScript
 
